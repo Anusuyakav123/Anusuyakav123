@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kaviya 👋
 
-<!--
-**Anusuyakav123/Anusuyakav123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development and Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Languages:** Java, Python
+- **Database:** SQL
+- **Core Concepts:** OOP, Data Structures
+- **Cloud:** Oracle Cloud Infrastructure
+
+### Projects
+- AI Attendance System
+- Python CLI Todo List
+- Movie App
+- Smart Drain Monitoring and Blockage Detection System
+
+### Certifications
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- NPTEL Elite – Python for Data Science
+- Infosys Data Science Foundation
+
+### Research Publication
+- AI Diet Planner – Research paper published in IEEE
+
+### Connect with me
+- [LinkedIn](https://linkedin.com/in/kaviya-chandhra-sekar-448534308/)
+- [GitHub](https://github.com/Anusuyakav123)
